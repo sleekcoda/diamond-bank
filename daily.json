@@ -1,0 +1,280 @@
+[{
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265001",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T10:38:15.697",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 4000,
+    "Value": 4960.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266184",
+    "Price": 1.2100,
+    "TradeTime": "2018-10-10T13:06:00.567",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 4482,
+    "Value": 5423.22,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024264939",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T10:22:14.633",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 5000,
+    "Value": 6250.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266015",
+    "Price": 1.2600,
+    "TradeTime": "2018-10-10T12:52:35.857",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 5900,
+    "Value": 7434.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024264942",
+    "Price": 1.2000,
+    "TradeTime": "2018-10-10T10:22:20.887",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 84013,
+    "Value": 100815.6,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265369",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T11:40:04.907",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 26000,
+    "Value": 32240.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266503",
+    "Price": 1.2200,
+    "TradeTime": "2018-10-10T13:30:17.427",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 2000,
+    "Value": 2440.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265370",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T11:40:04.907",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 4900,
+    "Value": 6125.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267504",
+    "Price": 1.2600,
+    "TradeTime": "2018-10-10T14:19:57.543",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 1100,
+    "Value": 1386.0,
+    "Source": "E"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265139",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T11:03:04.167",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 1000,
+    "Value": 1240.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266901",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T13:52:52.747",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 500000,
+    "Value": 625000.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266344",
+    "Price": 1.2100,
+    "TradeTime": "2018-10-10T13:20:39.137",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 70,
+    "Value": 84.7,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024264941",
+    "Price": 1.2000,
+    "TradeTime": "2018-10-10T10:22:20.887",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 16000,
+    "Value": 19200.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265331",
+    "Price": 1.2100,
+    "TradeTime": "2018-10-10T11:34:43.007",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 2750,
+    "Value": 3327.5,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024264943",
+    "Price": 1.1900,
+    "TradeTime": "2018-10-10T10:22:20.887",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 1187,
+    "Value": 1412.53,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265041",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T10:44:29.643",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 100,
+    "Value": 124.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266964",
+    "Price": 1.2600,
+    "TradeTime": "2018-10-10T13:56:18.013",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 11666,
+    "Value": 14699.16,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266014",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T12:52:35.857",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 10100,
+    "Value": 12625.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266619",
+    "Price": 1.2100,
+    "TradeTime": "2018-10-10T13:36:22.077",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 124430,
+    "Value": 150560.3,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266927",
+    "Price": 1.2600,
+    "TradeTime": "2018-10-10T13:53:54.067",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 706,
+    "Value": 889.56,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266618",
+    "Price": 1.2200,
+    "TradeTime": "2018-10-10T13:36:22.077",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 150345,
+    "Value": 183420.9,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265368",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T11:40:04.907",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 2100,
+    "Value": 2604.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267514",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T14:30:00.003",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 272487,
+    "Value": 340608.75,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024266902",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T13:52:52.747",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 600000,
+    "Value": 750000.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267515",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T14:30:00.003",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 77513,
+    "Value": 96891.25,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267271",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T14:14:32.593",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 4000,
+    "Value": 5000.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267054",
+    "Price": 1.2200,
+    "TradeTime": "2018-10-10T14:00:54.92",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 175635,
+    "Value": 214274.7,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267053",
+    "Price": 1.2200,
+    "TradeTime": "2018-10-10T14:00:54.92",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 154365,
+    "Value": 188325.3,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024265164",
+    "Price": 1.2400,
+    "TradeTime": "2018-10-10T11:07:07.913",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 22800,
+    "Value": 28272.0,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267164",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T14:10:29.697",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 113513,
+    "Value": 141891.25,
+    "Source": "A"
+}, {
+    "Symbol": "DIAMONDBNK",
+    "TradeNum": "000024267022",
+    "Price": 1.2500,
+    "TradeTime": "2018-10-10T13:59:16.687",
+    "TradeDate": "2018-10-10T00:00:00",
+    "Volume": 100000,
+    "Value": 125000.0,
+    "Source": "A"
+}]

@@ -1,0 +1,4 @@
+span.ir-stock-price:before {content: '₦';margin-right: 5px;}
+span.ir-stock-price:after, span.ir-stock-volume:after {font-family: FontAwesome;content: "\f062";margin-left: 5px;font-size: 0.7em;}
+span.ir-stock-price.gain-up:after, span.ir-stock-volume.gain-up:after {content: "\f062";color:green;}
+span.ir-stock-price.gain-down:after, span.ir-stock-volume.gain-down:after {content: "\f063";color:red;}
